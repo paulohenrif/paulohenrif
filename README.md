@@ -6,5 +6,5 @@
 - 🎓 Bacharel em Sistemas de Informação...
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzKkf&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzKkf&layout=compact&theme=radical)](https://github.com/OzKkf/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohenrif&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenrif&layout=compact&theme=radical)](https://github.com/paulohenrif/github-readme-stats)
