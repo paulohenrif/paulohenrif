@@ -41,4 +41,4 @@
 
 ###
 
-![Snake animation](https://github.com/paulohenrif/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paulohenrif/paulohenrif/blob/output/github-contribution-grid-snake.svg)
