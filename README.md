@@ -39,4 +39,4 @@
   <img src="https://profile-counter.glitch.me/paulohenrif/count.svg?"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/paulohenrif/paulohenrif/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/paulohenrif/paulohenrif/blob/output/github-contribution-grid-snake.svg)
