@@ -12,6 +12,11 @@
 </div>
 
 ###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif">
+
+###
+
 <h3 align="left">Minhas ferramentas:</h3>
 
 <div align="left">
@@ -35,9 +40,9 @@
 <h3 align="left">Conecte-se comigo:</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/paulohenrif/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href="https://www.linkedin.com/in/paulohenrif/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  /> </a>
   <img width="12">
-  <a href="https://instagram.com/paulo_henrif/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
+  <a href="https://instagram.com/paulo_henrif/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  /> </a>
 </a>
 </div>
 
@@ -47,4 +52,9 @@
   <img src="https://profile-counter.glitch.me/paulohenrif/count.svg?"  />
 </div>
 
+###
+
 ![Snake animation](https://github.com/paulohenrif/paulohenrif/blob/output/github-contribution-grid-snake.svg)
+
+
+<!--<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
