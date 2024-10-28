@@ -1,4 +1,4 @@
-### Olá, me chamo Paulo.
+### » 💫 Sobre mim:
 
 - 🔭 Sou desenvolvedor Front-end...
 - ☄️ Totalmente focado em metas e objetivos...
@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulohenrif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulohenrif&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulohenrif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulohenrif&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">Minhas ferramentas:</h3>
+<h3 align="left">» 💻 Minhas ferramentas:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -37,20 +37,21 @@
 
 ###
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">» 🌐 Conecte-se comigo:</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/paulohenrif/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  /> </a>
-  <a href="https://instagram.com/paulo_henrif/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  /> </a>
-</a>
+  <a href="https://www.linkedin.com/in/paulohenrif/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30"  /> </a>
+  <a href="https://instagram.com/paulo_henrif/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30"  /> </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/paulohenrif/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/paulohenrif/count.svg?"  /> -->
+  
+  [![](https://visitcount.itsvg.in/api?id=paulohenrif&icon=0&color=12)](https://visitcount.itsvg.in)
 </div>
 
 ###
 
-<!--![Snake animation](https://github.com/paulohenrif/paulohenrif/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/paulohenrif/paulohenrif/blob/output/github-contribution-grid-snake.svg)-->
