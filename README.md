@@ -51,6 +51,4 @@
   [![](https://visitcount.itsvg.in/api?id=paulohenrif&icon=0&color=12)](https://visitcount.itsvg.in)
 </div>
 
-###
-
 <!--![Snake animation](https://github.com/paulohenrif/paulohenrif/blob/output/github-contribution-grid-snake.svg)-->
