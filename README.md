@@ -1,4 +1,4 @@
-### » 💫 Sobre mim:
+## Olá, meu nome é Paulo Henrique!
 
 - 🔭 Desenvolvedor Frontend...
 - ☄️ Totalmente focado em metas e objetivos...
@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">» 💻 Minhas ferramentas:</h3>
+## Minhas ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -30,16 +30,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </div>
 
 ###
 
-<h3 align="left">» 🌐 Conecte-se comigo:</h3>
+## Conecte-se comigo
 
 <div align="left">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulo_henrif/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohenrif/) 
+  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulo_henrif/)-->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohenrif/) 
   
 </div>
 
