@@ -18,6 +18,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulohenrif&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do paulohenrif"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulohenrif&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
+  <img height="160em" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif">
 </p>
 
 ## 🐍 Minhas Contribuições
