@@ -1,6 +1,6 @@
 # Olá, eu sou o Paulo! 👋
 
-👨‍💻 Desenvolvedor apaixonado por tecnologia e em constante aprendizado.
+👨‍💻 Desenvolvedor em constante aprendizado.
 
 ## 🚀 Sobre Mim
 - 🔭 Atualmente trabalhando em **Projetos Pessoais**
