@@ -1,54 +1,30 @@
-## Olá, meu nome é Paulo Henrique!
+# Olá, eu sou o Paulo! 👋
 
-- 🔭 Desenvolvedor Frontend...
-- ☄️ Totalmente focado em metas e objetivos...
-- 🎓 Sistemas de Informação - UFERSA...
-  
-###
+👨‍💻 Desenvolvedor apaixonado por tecnologia e em constante aprendizado.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulohenrif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulohenrif&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+## 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando em **Projetos Pessoais**
+- 📫 Como chegar até mim: **<a href="https://www.linkedin.com/in/paulohenrif/">Linkedin</a>**
 
-###
+## 💻 Linguagens e Ferramentas
+<!-- Você pode adicionar ou remover tecnologias na URL abaixo separando por vírgula -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,python,git,docker,linux" alt="Minhas Habilidades" />
+  </a>
+</p>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif">
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulohenrif&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do paulohenrif"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulohenrif&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
+</p>
 
-###
-
-## Minhas ferramentas
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
-
-## Conecte-se comigo
-
-<div align="left">
-  
-  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulo_henrif/)-->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulohenrif/) 
-  
-</div>
-
-###
-
-<div align="center">
-<!--   <img src="https://profile-counter.glitch.me/paulohenrif/count.svg?"  /> -->
-  
-  [![](https://visitcount.itsvg.in/api?id=paulohenrif&icon=0&color=12)](https://visitcount.itsvg.in)
-</div>
-
-![Snake animation](https://github.com/paulohenrif/paulohenrif/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Minhas Contribuições
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulohenrif/paulohenrif/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulohenrif/paulohenrif/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulohenrif/paulohenrif/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
