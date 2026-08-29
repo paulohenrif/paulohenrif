@@ -4,7 +4,6 @@
 
 ## 🚀 Sobre Mim
 - 🔭 Atualmente trabalhando em **Projetos Pessoais**
-- 📫 Como chegar até mim: **<a href="https://www.linkedin.com/in/paulohenrif/">Linkedin</a>**
 
 ## 💻 Linguagens e Ferramentas
 <!-- Você pode adicionar ou remover tecnologias na URL abaixo separando por vírgula -->
