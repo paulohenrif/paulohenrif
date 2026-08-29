@@ -2,8 +2,14 @@
 
 👨‍💻 Desenvolvedor em constante aprendizado.
 
+</br>
+</br>
+
 ## 🚀 Sobre Mim
 - 🔭 Atualmente trabalhando em **Projetos Pessoais**
+  
+</br>
+</br>
 
 ## 💻 Linguagens e Ferramentas
 <!-- Você pode adicionar ou remover tecnologias na URL abaixo separando por vírgula -->
@@ -13,11 +19,17 @@
   </a>
 </p>
 
+</br>
+</br>
+
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulohenrif&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do paulohenrif"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulohenrif&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
 </p>
+
+</br>
+</br>
 
 ## 🐍 Minhas Contribuições
 <p align="center">
