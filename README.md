@@ -3,10 +3,10 @@
 Desenvolvedor em constante aprendizado.
 
 ## Sobre Mim
-- Atualmente trabalhando em **Projetos Pessoais**
+
+Atualmente trabalhando em **Projetos Pessoais**
 
 ## Linguagens e Ferramentas
-
 
 <p align="left">
   <a href="https://skillicons.dev">
