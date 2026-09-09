@@ -7,6 +7,7 @@ Desenvolvedor em constante aprendizado.
 
 ## Linguagens e Ferramentas
 
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,python,git,docker,linux" alt="Minhas Habilidades" />
