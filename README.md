@@ -4,7 +4,7 @@ Desenvolvedor em constante aprendizado.
 
 ## Sobre Mim
 
-Atualmente trabalhando em **Projetos Pessoais**
+Atualmente estou trabalhando em **Projetos Pessoais.**
 
 ## Linguagens e Ferramentas
 
