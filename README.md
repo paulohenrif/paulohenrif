@@ -28,3 +28,5 @@ Atualmente estou trabalhando em **Projetos Pessoais.**
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulohenrif/paulohenrif/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+
