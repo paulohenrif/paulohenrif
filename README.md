@@ -29,6 +29,3 @@ Atualmente estou trabalhando em **Projetos Pessoais.**
   </picture>
 </p>
 
-
-
-
